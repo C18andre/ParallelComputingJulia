@@ -1,0 +1,2 @@
+# ParallelComputingJulia
+School project
